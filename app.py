@@ -13,7 +13,7 @@ def load_dishes():
 dishes = load_dishes()
 
 # API tìm kiếm
-@app.route('/search', methods=['POST'])
+@app.route('/search', methods=['GET'])
 def search():
     data = request.json
     query_text = data.get("query")

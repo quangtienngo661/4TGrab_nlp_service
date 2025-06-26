@@ -22,7 +22,7 @@ def search_dishes(keywords, dishes):
     """
     matching_dishes = []
 
-    for dish_data in dishes.items():
+    for dish_id, dish_data in dishes.items():
         # Combine all searchable fields into one string
         fields_to_search = [
             dish_data["categoryName"].lower(),
