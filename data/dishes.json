@@ -1,0 +1,1533 @@
+{
+  "1": {
+    "categoryName": "Pizza",
+    "description": "A perfect combination of fresh shrimp, crispy squid, sweet clams, and delicious crab sticks, all blended with rich mayonnaise sauce and melted mozzarella cheese. Topped on a crispy crust, bringing the taste of the ocean in every bite.",
+    "id": "1",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318772/Meat_Feast_pizza_asrylz.jpg",
+    "isDeleted": true,
+    "isPopular": false,
+    "name": "Meat Feast",
+    "price": 50,
+    "star": 3.5,
+    "time": "8 mins",
+    "cuisine_type": "Italian-American",
+    "dish_characteristics": [
+      "pizza",
+      "seafood",
+      "savory",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "shrimp",
+      "squid",
+      "clams",
+      "crab sticks",
+      "mozzarella cheese"
+    ],
+    "__collections__": {}
+  },
+  "2": {
+    "categoryName": "Pizza",
+    "description": "Tender grilled beef marinated in flavorful BBQ sauce, paired with sweet onions and crunchy bell peppers. Finished with stretchy mozzarella cheese and a signature BBQ sauce drizzle, creating an irresistible smoky flavor.",
+    "id": "2",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318774/Pepperoni_Lovers_go9vcc.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Peperoni Lovers",
+    "price": 30,
+    "star": 2,
+    "time": "8 mins",
+    "cuisine_type": "Italian-American",
+    "dish_characteristics": [
+      "pizza",
+      "beef",
+      "BBQ flavor",
+      "savory",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "grilled beef",
+      "BBQ sauce",
+      "onions",
+      "bell peppers",
+      "mozzarella cheese"
+    ],
+    "__collections__": {}
+  },
+  "3": {
+    "categoryName": "Pizza",
+    "description": "A delightful mix of shredded chicken, fresh mushrooms, and a smooth, creamy sauce. The richness of mozzarella cheese balances the flavors perfectly, offering a light yet delicious gourmet experience.",
+    "id": "3",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318794/BBQ_Chicken_Delight_owvllk.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "BBQ Chicken Delight",
+    "price": 40,
+    "star": 4,
+    "time": "9 mins",
+    "cuisine_type": "Italian-American",
+    "dish_characteristics": [
+      "pizza",
+      "chicken",
+      "creamy",
+      "gourmet",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "shredded chicken",
+      "mushrooms",
+      "creamy sauce",
+      "mozzarella cheese"
+    ],
+    "__collections__": {}
+  },
+  "4": {
+    "categoryName": "Burger",
+    "description": "A juicy, flame-grilled beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and crunchy pickles. All stacked between a soft, toasted brioche bun with a touch of creamy mayo and tangy ketchup for the perfect balance of flavors.",
+    "id": "4",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318777/Bacon_and_Cheese_Heaven_pyb2hl.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Bacon and Chese",
+    "price": 30,
+    "star": 5,
+    "time": "5 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "burger",
+      "beef",
+      "grilled",
+      "savory",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "beef patty",
+      "cheddar cheese",
+      "lettuce",
+      "tomatoes",
+      "pickles",
+      "brioche bun",
+      "mayo",
+      "ketchup"
+    ],
+    "__collections__": {}
+  },
+  "5": {
+    "categoryName": "Burger",
+    "description": "Crispy, golden-fried chicken fillet coated in a spicy seasoning, layered with crisp lettuce, sliced jalapeños, and a zesty sriracha mayo sauce. Served in a soft, toasted bun for a fiery and flavorful bite. Would you like any tweaks or more options?",
+    "id": "5",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318813/BBQ_Ranch_Delight_ffufdt.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Ranch Delight Burger",
+    "price": 55,
+    "star": 5,
+    "time": "7 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "burger",
+      "chicken",
+      "fried",
+      "spicy"
+    ],
+    "main_ingredients": [
+      "chicken fillet",
+      "jalapeños",
+      "lettuce",
+      "sriracha mayo"
+    ],
+    "__collections__": {}
+  },
+  "6": {
+    "categoryName": "Meat",
+    "description": "A perfectly grilled ribeye steak, seasoned with a blend of herbs and sea salt, delivering a rich, juicy, and smoky flavor. Served with garlic butter, roasted vegetables, and a side of creamy mashed potatoes for a satisfying meal.",
+    "id": "6",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318832/Beef_Stir-Fry_with_Broccoli_i6zbwg.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Beef stir with broccoll",
+    "price": 55,
+    "star": 4,
+    "time": "7 mins",
+    "cuisine_type": "Asian",
+    "dish_characteristics": [
+      "meat",
+      "beef",
+      "stir-fry",
+      "savory"
+    ],
+    "main_ingredients": [
+      "beef",
+      "broccoli"
+    ],
+    "__collections__": {}
+  },
+  "7": {
+    "categoryName": "Drink",
+    "description": "A vibrant mix of strawberries, blueberries, and raspberries blended with creamy almond milk and a touch of honey. Packed with antioxidants and bursting with fruity goodness, this smoothie is both delicious and energizing!",
+    "id": "7",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318864/Berry_Blast_Smoothie_ya21rt.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Berry Blast Smoothie",
+    "price": 22,
+    "star": 5,
+    "time": "5 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "drink",
+      "smoothie",
+      "fruity",
+      "sweet",
+      "refreshing",
+      "healthy"
+    ],
+    "main_ingredients": [
+      "strawberries",
+      "blueberries",
+      "raspberries",
+      "almond milk",
+      "honey"
+    ],
+    "__collections__": {}
+  },
+  "8": {
+    "categoryName": "Drink",
+    "description": "Made from 100% freshly squeezed oranges, this juice is naturally sweet, tangy, and packed with vitamin C. Served chilled with or without ice, it's the perfect refreshing drink to brighten your day!",
+    "id": "8",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318949/Fresh_Orange_Juice_g4ttqv.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Orange Juice",
+    "price": 20,
+    "star": 0,
+    "time": "5 mins",
+    "cuisine_type": "General",
+    "dish_characteristics": [
+      "drink",
+      "juice",
+      "sweet",
+      "tangy",
+      "refreshing"
+    ],
+    "main_ingredients": [
+      "oranges"
+    ],
+    "__collections__": {}
+  },
+  "9": {
+    "categoryName": "Meat",
+    "description": "Juicy pork chops marinated in a sweet and savory honey glaze, grilled to perfection with a slight char. Paired with steamed vegetables and fluffy mashed potatoes for a balanced and satisfying dish.",
+    "id": "9",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318774/Pan-Seared_Garlic_Butter_Sirloin_z7wlg0.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Pan Seared",
+    "price": 40,
+    "star": 0,
+    "time": "9 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "meat",
+      "pork",
+      "grilled",
+      "sweet",
+      "savory"
+    ],
+    "main_ingredients": [
+      "pork chops",
+      "honey glaze",
+      "steamed vegetables",
+      "mashed potatoes"
+    ],
+    "__collections__": {}
+  },
+  "10": {
+    "categoryName": "Chicken",
+    "description": "Tender chicken marinated in a zesty lemon and herb mixture, then grilled to perfection. The fresh citrus and aromatic herbs create a light, flavorful taste, served with a side of roasted vegetables and quinoa for a healthy, satisfying meal.",
+    "id": "10",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318864/Chicken_Avocado_Bliss_yjkw3r.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Chicken Avocado Bliss",
+    "price": 45,
+    "star": 4,
+    "time": "9 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "chicken",
+      "grilled",
+      "healthy",
+      "light",
+      "flavorful"
+    ],
+    "main_ingredients": [
+      "chicken",
+      "lemon",
+      "herbs",
+      "roasted vegetables",
+      "quinoa"
+    ],
+    "__collections__": {}
+  },
+  "11": {
+    "categoryName": "Chicken",
+    "description": "Golden, crispy fried chicken with a perfectly seasoned batter that gives each piece a crunchy, flavorful exterior while keeping the meat juicy and tender inside. Served with mashed potatoes and a side of tangy dipping sauce for an irresistible comfort food experience.",
+    "id": "11",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318949/Garlic_Parmesan_Chicken_s0ygxr.jpg",
+    "isDeleted": false,
+    "isPopular": true,
+    "name": "Garlic Parmesan Chicken",
+    "price": 40,
+    "star": 4,
+    "time": "12 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "chicken",
+      "fried",
+      "crispy",
+      "comfort food",
+      "savory"
+    ],
+    "main_ingredients": [
+      "chicken",
+      "garlic",
+      "parmesan",
+      "mashed potatoes"
+    ],
+    "__collections__": {}
+  },
+  "12": {
+    "categoryName": "Hot Dog",
+    "description": "A perfectly grilled all-beef sausage, nestled in a soft, toasted bun, and topped with classic mustard, ketchup, and tangy pickles. Simple, savory, and the ultimate comfort food for any occasion.",
+    "id": "12",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318864/Chili_Cheese_Dog_hzglny.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Chili Cheese Hot Dog",
+    "price": 30,
+    "star": 0,
+    "time": "5 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "hot dog",
+      "beef",
+      "grilled",
+      "savory",
+      "comfort food",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "beef sausage",
+      "bun",
+      "mustard",
+      "ketchup",
+      "pickles",
+      "chili",
+      "cheese"
+    ],
+    "__collections__": {}
+  },
+  "13": {
+    "categoryName": "Hot Dog",
+    "description": "A juicy beef sausage wrapped in crispy bacon, drizzled with smoky BBQ sauce, and topped with melted cheddar cheese, crunchy onions, and a dash of tangy pickles. This hot dog offers a bold and flavorful twist on a classic favorite.",
+    "id": "13",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318864/Classic_Beef_Hot_Dog_jnpsxm.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Classic Beef Hot Dog",
+    "price": 30,
+    "star": 0,
+    "time": "10 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "hot dog",
+      "beef",
+      "bacon",
+      "BBQ flavor",
+      "savory",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "beef sausage",
+      "bacon",
+      "BBQ sauce",
+      "cheddar cheese",
+      "onions",
+      "pickles"
+    ],
+    "__collections__": {}
+  },
+  "14": {
+    "categoryName": "Coffee",
+    "description": "A rich and smooth espresso shot diluted with hot water, creating a bold yet balanced coffee flavor. Perfect for those who enjoy a simple and strong coffee experience without any added sweetness.",
+    "id": "14",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318973/Iced_Caramel_Macchiato_fx1m8e.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Iced Caramel Macchiato",
+    "price": 20,
+    "star": 3,
+    "time": "5 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "coffee",
+      "iced",
+      "sweet",
+      "creamy"
+    ],
+    "main_ingredients": [
+      "espresso",
+      "caramel syrup",
+      "milk"
+    ],
+    "__collections__": {
+      "comments": {
+        "4Ac96ZtYgtg9DyStOJ3wmCoe2W12": {
+          "foodId": "14",
+          "id": "4Ac96ZtYgtg9DyStOJ3wmCoe2W12",
+          "text": "this is a comment",
+          "timestamp": 1745692870898,
+          "userId": "4Ac96ZtYgtg9DyStOJ3wmCoe2W12",
+          "__collections__": {}
+        }
+      }
+    }
+  },
+  "15": {
+    "categoryName": "Coffee",
+    "description": "A velvety espresso mixed with steamed milk and a touch of sweet vanilla syrup, creating a creamy, comforting coffee drink with just the right amount of sweetness. Topped with a light foam for a luxurious finish.",
+    "id": "15",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318950/Green_Tea_Latte_jqpkyj.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Green Tea Latte",
+    "price": 20,
+    "star": 5,
+    "time": "5 mins",
+    "cuisine_type": "Asian-inspired",
+    "dish_characteristics": [
+      "coffee",
+      "latte",
+      "creamy",
+      "sweet"
+    ],
+    "main_ingredients": [
+      "green tea",
+      "steamed milk"
+    ],
+    "__collections__": {}
+  },
+  "16": {
+    "categoryName": "Sushi",
+    "description": "Fresh, buttery slices of salmon delicately placed on top of vinegared rice, offering a melt-in-your-mouth experience. Lightly seasoned with a hint of soy sauce and wasabi, this simple yet elegant dish highlights the natural flavors of the fish.",
+    "id": "16",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Salmon_Nigiri_h2hzqd.jpg",
+    "isPopular": false,
+    "name": "Salmon Nigiri",
+    "price": 50,
+    "star": 4.6,
+    "time": "10 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "nigiri",
+      "seafood",
+      "raw",
+      "savory"
+    ],
+    "main_ingredients": [
+      "salmon",
+      "vinegared rice"
+    ],
+    "__collections__": {}
+  },
+  "17": {
+    "categoryName": "Sushi",
+    "description": "Fresh, premium slices of tuna, carefully cut to showcase its deep red color and delicate texture. Served simply with a side of soy sauce and a touch of wasabi, this sashimi offers a clean, rich flavor that highlights the natural taste of the tuna.",
+    "id": "17",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Sashimi_Platter_mwzrro.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Sashimi Platter",
+    "price": 55,
+    "star": 4.7,
+    "time": "12 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "sashimi",
+      "seafood",
+      "raw",
+      "savory"
+    ],
+    "main_ingredients": [
+      "tuna"
+    ],
+    "__collections__": {}
+  },
+  "4p7vMzk7YComjezMyTOp": {
+    "categoryName": "Meat",
+    "description": "Perfectly grilled Ribeye steak, retaining its natural tenderness and flavor, served with a special sauce.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318950/Grilled_Ribeye_Steak_xyymhv.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Grilled Ribeye Steak",
+    "price": 22,
+    "star": 0,
+    "time": "12 - 15 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "meat",
+      "beef",
+      "grilled",
+      "savory"
+    ],
+    "main_ingredients": [
+      "ribeye steak"
+    ],
+    "__collections__": {}
+  },
+  "57ViHZy0GEL7Ggdcy0rY": {
+    "categoryName": "Sushi",
+    "description": "TEMP",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1750211517/sgd77lqpyjc2sseuml3v.png",
+    "isDeleted": true,
+    "isPopular": false,
+    "name": "tempora",
+    "price": 125,
+    "star": 0,
+    "time": "10 - 15 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi"
+    ],
+    "main_ingredients": [],
+    "__collections__": {}
+  },
+  "5bxLw6eCUHMAEK2k5sru": {
+    "categoryName": "Hot Dog",
+    "description": "Experience the best of both worlds with our Reuben Style Hot Dog. A juicy hot dog piled high with thinly sliced corned beef, zesty sauerkraut, melted Swiss, and our house-made Thousand Island dressing, all on a perfectly toasted bun.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Reuben_Style_Hot_Dog_lyba7l.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Reuben Style Hot Dog",
+    "price": 10.5,
+    "star": 0,
+    "time": "5 - 7 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "hot dog",
+      "savory",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "hot dog",
+      "corned beef",
+      "sauerkraut",
+      "Swiss cheese",
+      "Thousand Island dressing"
+    ],
+    "__collections__": {}
+  },
+  "7Iq7LBc5YQcsIIgtmPtJ": {
+    "categoryName": "Drink",
+    "description": "Quench your thirst with our invigorating Mint Lemonade! Made with real lemons and a generous infusion of fresh garden mint, it's a naturally vibrant and revitalizing beverage that's both sweet and tangy.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318773/Mint_Lemonade_p8xyj6.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Mint Lemonade",
+    "price": 6,
+    "star": 0,
+    "time": "5 mins",
+    "cuisine_type": "General",
+    "dish_characteristics": [
+      "drink",
+      "lemonade",
+      "sweet",
+      "tangy",
+      "refreshing"
+    ],
+    "main_ingredients": [
+      "lemons",
+      "mint"
+    ],
+    "__collections__": {}
+  },
+  "86XbePQwzQpmEEYxqZ9W": {
+    "categoryName": "Sushi",
+    "description": "Our refreshing Veggie Roll is a celebration of garden-fresh ingredients. Featuring crunchy asparagus, pickled daikon radish, avocado, and cucumber, elegantly wrapped in rice and seaweed. A light and flavorful choice for vegetarians and vegans.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318773/Veggie_Roll_dvog6m.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Veggie Roll",
+    "price": 8.99,
+    "star": 4.3,
+    "time": "5 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "vegetarian",
+      "vegan",
+      "light",
+      "fresh"
+    ],
+    "main_ingredients": [
+      "asparagus",
+      "daikon radish",
+      "avocado",
+      "cucumber",
+      "rice",
+      "seaweed"
+    ],
+    "__collections__": {}
+  },
+  "9ElxbO7KYmaJhXWnISoe": {
+    "categoryName": "Hot Dog",
+    "description": "Simple and satisfying, our Pretzel Bun Dog pairs a classic hot dog with the unique texture and taste of a fresh pretzel bun. A fun and flavorful option for a quick bite or casual meal.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Pretzel_Bun_Dog_iremo9.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Pretzel Bun Dog",
+    "price": 8.99,
+    "star": 0,
+    "time": "5 - 7 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "hot dog",
+      "savory",
+      "comfort food"
+    ],
+    "main_ingredients": [
+      "hot dog",
+      "pretzel bun"
+    ],
+    "__collections__": {}
+  },
+  "A5MvhDoPZVhZc6W75HO3": {
+    "categoryName": "Drink",
+    "description": "Escape to the tropics with our Mango Tango Slush! A delightful concoction of fresh, juicy mangoes, a hint of citrus, and crushed ice, blended to a smooth, icy perfection. An invigorating and sweet escape.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318774/Mango_Tango_Slush_d8oenr.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Manga Tango Slush",
+    "price": 7.99,
+    "star": 4,
+    "time": "5 - 7 mins",
+    "cuisine_type": "Tropical",
+    "dish_characteristics": [
+      "drink",
+      "slush",
+      "fruity",
+      "sweet",
+      "refreshing",
+      "iced"
+    ],
+    "main_ingredients": [
+      "mangoes",
+      "citrus",
+      "crushed ice"
+    ],
+    "__collections__": {}
+  },
+  "AH0EUktRUE0Guc2UTHsc": {
+    "categoryName": "Meat",
+    "description": "Indulge in our exquisite Rainbow Roll, a feast for both the eyes and the palate. This roll combines the creamy texture of avocado and the crispness of cucumber with a delightful crab mix, crowned with thin slices of premium tuna, salmon, and hamachi for a truly fresh experience.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Rainbow_Roll_gmcmng.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Rainbow Roll",
+    "price": 18,
+    "star": 3,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "seafood",
+      "fresh",
+      "savory"
+    ],
+    "main_ingredients": [
+      "avocado",
+      "cucumber",
+      "crab mix",
+      "tuna",
+      "salmon",
+      "hamachi"
+    ],
+    "__collections__": {}
+  },
+  "AmlgoUPL5MnsNVOqjxMw": {
+    "categoryName": "Chicken",
+    "description": "Our Korean Fried Chicken offers a delightful crunch with every bite. Lightly battered and fried to golden perfection, then coated in a rich, flavorful sauce. A popular and satisfying dish, perfect for sharing.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318774/Korean_Fried_Chicken_svymws.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Korean Fried Chicken",
+    "price": 14.75,
+    "star": 4,
+    "time": "9 mins",
+    "cuisine_type": "Korean",
+    "dish_characteristics": [
+      "chicken",
+      "fried",
+      "crispy",
+      "savory",
+      "flavorful"
+    ],
+    "main_ingredients": [
+      "chicken",
+      "sauce"
+    ],
+    "__collections__": {}
+  },
+  "AshUTeZfvhYwZyQmgphC": {
+    "categoryName": "Hot Dog",
+    "description": "A classic hot dog elevated with tangy and spicy kimchi topping, creating a unique fusion of Western and Korean culinary delights.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318974/Kimchi_Hot_Dog_dxamei.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Kimchi Hot Dog",
+    "price": 5.75,
+    "star": 0,
+    "time": "5 - 7 mins",
+    "cuisine_type": "Fusion (Korean-American)",
+    "dish_characteristics": [
+      "hot dog",
+      "tangy",
+      "spicy",
+      "fusion"
+    ],
+    "main_ingredients": [
+      "hot dog",
+      "kimchi"
+    ],
+    "__collections__": {}
+  },
+  "BMHYO7E2rdn5g3Hk30nw": {
+    "categoryName": "Noodle",
+    "description": "Indulge in our exquisite Pasta Carbonara, a timeless Italian dish prepared with perfectly cooked pasta, savory cured pork (guanciale or pancetta), a velvety sauce of eggs and hard cheese, and a generous sprinkle of black pepper. Simple perfection",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318774/Pasta_Carbonara_t9qzxe.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Pasta Carbonara",
+    "price": 19.5,
+    "star": 5,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Italian",
+    "dish_characteristics": [
+      "pasta",
+      "noodle",
+      "creamy",
+      "savory"
+    ],
+    "main_ingredients": [
+      "pasta",
+      "cured pork",
+      "eggs",
+      "hard cheese",
+      "black pepper"
+    ],
+    "__collections__": {}
+  },
+  "Jn42EKJNsyaTyPivsQ1F": {
+    "categoryName": "Chicken",
+    "description": "Crispy fried chicken tenders coated in a sweet and tangy honey mustard glaze, creating a unique and memorable flavor.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318973/Honey_Mustard_Glazed_Tenders_vrjtxo.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Honey Mustard Glazed Tenders",
+    "price": 7.5,
+    "star": 5,
+    "time": "9 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "chicken",
+      "fried",
+      "crispy",
+      "sweet",
+      "tangy"
+    ],
+    "main_ingredients": [
+      "chicken tenders",
+      "honey mustard glaze"
+    ],
+    "__collections__": {}
+  },
+  "L6evHPgyuuevtWf4sPts": {
+    "categoryName": "Sushi",
+    "description": "Ignite your taste buds with our vibrant Spicy Tuna Roll. Premium sashimi-grade tuna is tossed in our house-made spicy mayo and rolled with crisp cucumber and sushi rice. A bold and refreshing choice",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Spicy_Tuna_Roll_tz5iex.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Spicy Tuna Roll",
+    "price": 11.99,
+    "star": 4.5,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "spicy",
+      "seafood",
+      "raw",
+      "refreshing"
+    ],
+    "main_ingredients": [
+      "tuna",
+      "spicy mayo",
+      "cucumber",
+      "sushi rice"
+    ],
+    "__collections__": {}
+  },
+  "LJwyTuSkYkBJP3wIEU1F": {
+    "categoryName": "Meat",
+    "description": "ndulge in our exquisite Bacon Wrapped Filet Mignon. This prime cut of beef is delicately seared to perfection and encased in savory, applewood-smoked bacon, creating a symphony of flavors. Accompanied by seasonal vegetables and your choice of potato.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318777/Bacon-Wrapped_Filet_Mignon_cnrgof.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Bacon Wrapper Filet Mignon",
+    "price": 34.99,
+    "star": 0,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "meat",
+      "beef",
+      "savory",
+      "grilled",
+      "smoked"
+    ],
+    "main_ingredients": [
+      "filet mignon",
+      "bacon",
+      "seasonal vegetables",
+      "potato"
+    ],
+    "__collections__": {}
+  },
+  "OUtR0gKQOwlibg0emcRK": {
+    "categoryName": "Chicken",
+    "description": "Experience authentic Southern comfort with our Chicken Biscuit. A golden-brown, flaky biscuit cradles a tender, perfectly fried chicken breast, often served with a drizzle of honey or hot sauce for an extra kick",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Southern-Style_Chicken_Biscuit_vvhfag.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Southern Style Chicken Biscuit",
+    "price": 9.75,
+    "star": 4,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Southern American",
+    "dish_characteristics": [
+      "chicken",
+      "comfort food",
+      "fried",
+      "savory"
+    ],
+    "main_ingredients": [
+      "chicken breast",
+      "biscuit",
+      "honey",
+      "hot sauce"
+    ],
+    "__collections__": {}
+  },
+  "P3ZReXg6pNzCyMwMx7LD": {
+    "categoryName": "Meat",
+    "description": "Get ready for a flavor explosion with our Spicy Buffalo Wings! Crispy on the outside and juicy on the inside, these wings are coated in our zesty, medium-heat buffalo sauce. Ideal for sharing, served with ranch or blue cheese.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Spicy_Buffalo_Wings_vv9jcq.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Spicy Buffalo Wings",
+    "price": 12.5,
+    "star": 0,
+    "time": "9 - 11 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "meat",
+      "chicken",
+      "spicy",
+      "crispy",
+      "savory",
+      "appetizer"
+    ],
+    "main_ingredients": [
+      "chicken wings",
+      "buffalo sauce",
+      "ranch",
+      "blue cheese"
+    ],
+    "__collections__": {}
+  },
+  "PtRp6e4dvwVnmVaA7qkX": {
+    "categoryName": "Coffee",
+    "description": "Enjoy our expertly mixed Espresso Martini, featuring bold espresso flavors balanced with smooth vodka and sweet coffee liqueur. A delightful cocktail to start or end your evening.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318898/Espresso_Martini_px9d11.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Expresso Martini",
+    "price": 8.75,
+    "star": 0,
+    "time": "6 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "coffee",
+      "cocktail",
+      "alcoholic",
+      "sweet",
+      "bold"
+    ],
+    "main_ingredients": [
+      "espresso",
+      "vodka",
+      "coffee liqueur"
+    ],
+    "__collections__": {}
+  },
+  "QUJqHHcgm3h2xiNLwuXa": {
+    "categoryName": "Meat",
+    "description": "Our hearty Stuffed Bell Peppers feature fresh, colorful bell peppers brimming with a delicious mixture of lean ground turkey, aromatic spices, and perfectly cooked grains. A healthy and fulfilling dish, baked to perfection.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Stuffed_Bell_Peppers_with_Ground_Turkey_rihmcp.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Stuffed Bell Pepers with Ground Turkey",
+    "price": 14.99,
+    "star": 0,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "meat",
+      "healthy",
+      "savory",
+      "baked"
+    ],
+    "main_ingredients": [
+      "bell peppers",
+      "ground turkey",
+      "spices",
+      "grains"
+    ],
+    "__collections__": {}
+  },
+  "SF26x2syK52JviCHc55w": {
+    "categoryName": "Burger",
+    "description": "Turn up the heat with our Spicy Jalapeño Burger! A perfectly grilled beef patty loaded with grilled jalapeños, smoked bacon, cheddar cheese, and a zesty avocado-lime crema, served on a artisanal bun. Prepare for a flavorful inferno!",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Spicy_Jalape%C3%B1o_Burger_wzexrm.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Spicy Japapeno Burger",
+    "price": 16.5,
+    "star": 4,
+    "time": "5 - 7 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "burger",
+      "beef",
+      "spicy",
+      "grilled",
+      "cheese",
+      "savory"
+    ],
+    "main_ingredients": [
+      "beef patty",
+      "jalapeños",
+      "bacon",
+      "cheddar cheese",
+      "avocado-lime crema"
+    ],
+    "__collections__": {}
+  },
+  "SK7qsb5sxnzn5voM1iJt": {
+    "categoryName": "Chicken",
+    "description": "Indulge in our succulent Spinach, Feta Stuffed Chicken. Juicy chicken breast is carefully filled with a rich mixture of sautéed spinach and crumbled feta, creating a harmonious burst of Mediterranean-inspired flavors. Served with a light sauce.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Spinach_and_Feta_Stuffed_Chicken_vzv5el.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Spinach, Feta Stuffed Chicken",
+    "price": 18.99,
+    "star": 5,
+    "time": "20 - 25 phút",
+    "cuisine_type": "Mediterranean",
+    "dish_characteristics": [
+      "chicken",
+      "stuffed",
+      "savory",
+      "light",
+      "gourmet"
+    ],
+    "main_ingredients": [
+      "chicken breast",
+      "spinach",
+      "feta cheese"
+    ],
+    "__collections__": {}
+  },
+  "SynucRPA6Z2awm5rAOx3": {
+    "categoryName": "Meat",
+    "description": "Tender beef short ribs marinated richly according to Korean BBQ recipes, grilled to juicy perfection with a savory aroma.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318974/Korean_BBQ_Short_Ribs_ggtitx.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Korean BBQ Short Ribs",
+    "price": 17,
+    "star": 0,
+    "time": "9 mins",
+    "cuisine_type": "Korean",
+    "dish_characteristics": [
+      "meat",
+      "beef",
+      "BBQ",
+      "grilled",
+      "savory"
+    ],
+    "main_ingredients": [
+      "beef short ribs"
+    ],
+    "__collections__": {}
+  },
+  "UmXkCnB8tbQZHgQEyuaX": {
+    "categoryName": "Sushi",
+    "description": "A must-try! Our Dragon Roll is a generously portioned dish of crispy, flavorful sushi rolls, artfully arranged and served with all the classic trimmings: zesty pickled ginger, spicy wasabi, and savory soy sauce.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318879/Dragon_Roll_mjl6zw.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Dragon Roll",
+    "price": 13.25,
+    "star": 4.5,
+    "time": "10 - 12 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "crispy",
+      "savory",
+      "spicy"
+    ],
+    "main_ingredients": [
+      "sushi rolls",
+      "ginger",
+      "wasabi",
+      "soy sauce"
+    ],
+    "__collections__": {}
+  },
+  "V9pxXAG5FnmVuHlHL6Bd": {
+    "categoryName": "Pizza",
+    "description": "Experience a fresh burst of flavor with our Veggie Supreme Pizza. Featuring a medley of seasonal vegetables like spinach, broccoli, sliced zucchini, and sweet corn, over a rich marinara sauce and melted cheese. A healthy and delicious option for veggie lovers.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318773/Veggie_Supreme_pdsrwr.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Veggie Supreme Pizza",
+    "price": 13.5,
+    "star": 4.5,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Italian-American",
+    "dish_characteristics": [
+      "pizza",
+      "vegetarian",
+      "healthy",
+      "fresh",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "spinach",
+      "broccoli",
+      "zucchini",
+      "sweet corn",
+      "marinara sauce",
+      "cheese"
+    ],
+    "__collections__": {}
+  },
+  "VXB8CdFH9wzaVt9Z8l24": {
+    "categoryName": "Sushi",
+    "description": "Our popular Tempura Shrimp Roll offers a delightful crunch with succulent tempura-fried shrimp, creamy avocado, and refreshing cucumber, expertly wrapped in rice and seaweed. A perfect balance of textures and tastes, often served with spicy mayo",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Tempura_Shrimp_Roll_zk1wxb.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Tempura Shrimp Roll",
+    "price": 13.5,
+    "star": 4.6,
+    "time": "9 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "shrimp",
+      "fried",
+      "crispy",
+      "creamy",
+      "savory"
+    ],
+    "main_ingredients": [
+      "tempura shrimp",
+      "avocado",
+      "cucumber",
+      "rice",
+      "seaweed",
+      "spicy mayo"
+    ],
+    "__collections__": {}
+  },
+  "WmkFjOB6K3ETbkWLqzo3": {
+    "categoryName": "Sushi",
+    "description": "Our popular California Roll offers a perfect balance of textures and flavors with fresh avocado, crunchy cucumber, and premium crab (or imitation crab), wrapped in rice and seaweed, and finished with a sprinkle of roasted sesame seeds for an extra nutty flavor.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318863/California_Roll_euncel.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "California Roll",
+    "price": 11,
+    "star": 4.6,
+    "time": "6 - 8 mins",
+    "cuisine_type": "Japanese-American",
+    "dish_characteristics": [
+      "sushi",
+      "fresh",
+      "savory"
+    ],
+    "main_ingredients": [
+      "avocado",
+      "cucumber",
+      "crab",
+      "rice",
+      "seaweed",
+      "sesame seeds"
+    ],
+    "__collections__": {}
+  },
+  "X4CLX59t7R0QC7KzRGDx": {
+    "categoryName": "Burger",
+    "description": "Indulge in the rich flavors of our Mushroom Swiss Delight Burger. A premium beef patty grilled to perfection, crowned with a savory blend of caramelized mushrooms and luscious Swiss cheese. A truly satisfying and sophisticated burger experience.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318773/Mushroom_Swiss_Delight_dcpaep.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Mushroom Swiss Delight Burger",
+    "price": 15.99,
+    "star": 5,
+    "time": "5 - 7 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "burger",
+      "beef",
+      "savory",
+      "cheese",
+      "grilled"
+    ],
+    "main_ingredients": [
+      "beef patty",
+      "mushrooms",
+      "Swiss cheese"
+    ],
+    "__collections__": {}
+  },
+  "XDNsbTeDZaxuFlyuMJrQ": {
+    "categoryName": "Burger",
+    "description": "temp",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1750215425/ipt68ia7hte1bpluckyh.png",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "tempi",
+    "price": 15,
+    "star": 0,
+    "time": "temp",
+    "cuisine_type": "N/A",
+    "dish_characteristics": [],
+    "main_ingredients": [],
+    "__collections__": {}
+  },
+  "d4dRmQuhGlts5lqqWsPt": {
+    "categoryName": "Drink",
+    "description": "Enjoy the taste of the tropics with our fresh coconut water. Sourced from the finest young coconuts, it's a naturally sweet and electrolyte-rich drink, perfect for a healthy refreshment",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318864/Coconut_Water_el9soa.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Coconut Water",
+    "price": 4.5,
+    "star": 0,
+    "time": "3 mins",
+    "cuisine_type": "Tropical",
+    "dish_characteristics": [
+      "drink",
+      "sweet",
+      "refreshing",
+      "healthy"
+    ],
+    "main_ingredients": [
+      "coconut water"
+    ],
+    "__collections__": {}
+  },
+  "dXJmO0ltA3ptUNqM8igo": {
+    "categoryName": "Pizza",
+    "description": "Experience the true taste of Italy with our Margherita Pizza. Made with a vibrant tomato base, creamy fresh mozzarella, and a scattering of fresh basil, baked to golden perfection. A pure and satisfying pizza experience",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318772/margherita_gysnvw.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Margherita Pizza",
+    "price": 16,
+    "star": 0,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Italian",
+    "dish_characteristics": [
+      "pizza",
+      "vegetarian",
+      "savory",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "tomato base",
+      "mozzarella",
+      "basil"
+    ],
+    "__collections__": {}
+  },
+  "dgpXbHPaiTuJ0SHoQnPA": {
+    "categoryName": "Sushi",
+    "description": "Savor the simplicity of our Salmon Nigiri. Each piece offers buttery-soft, premium raw salmon atop a hand-formed bed of perfectly vinegared sushi rice, showcasing the natural sweetness of the fish.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Salmon_Nigiri_h2hzqd.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Salmon Nigiri",
+    "price": 7.5,
+    "star": 4.5,
+    "time": "5 - 10 mins",
+    "cuisine_type": "Japanese",
+    "dish_characteristics": [
+      "sushi",
+      "nigiri",
+      "seafood",
+      "raw",
+      "savory"
+    ],
+    "main_ingredients": [
+      "salmon",
+      "vinegared rice"
+    ],
+    "__collections__": {}
+  },
+  "ha6xqmwNvxSVADZ4y5Bw": {
+    "categoryName": "Sushi",
+    "description": "Our vibrant Quinoa Salad is packed with protein and fiber, combining perfectly cooked quinoa with a medley of fresh vegetables, including red onion, chickpeas, and a hint of mint. Drizzled with a light olive oil dressing.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Quinoa_Salad_Bowl_xnctyu.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Quiona Salad",
+    "price": 14,
+    "star": 4.5,
+    "time": "5 - 7 mins",
+    "cuisine_type": "Mediterranean-inspired",
+    "dish_characteristics": [
+      "salad",
+      "vegetarian",
+      "healthy",
+      "fresh",
+      "light"
+    ],
+    "main_ingredients": [
+      "quinoa",
+      "red onion",
+      "chickpeas",
+      "mint",
+      "olive oil"
+    ],
+    "__collections__": {}
+  },
+  "iEe7q5STvM9esPRx7ogm": {
+    "categoryName": "Hot Dog",
+    "description": "Experience a taste of Chicago with our classic hot dog. A juicy all-beef frank nestled in a soft poppy seed bun, generously topped with vibrant sweet relish, diced onions, ripe tomatoes, a crispy dill pickle, spicy sport peppers, and a sprinkle of celery salt, finished with a classic zig-zag of yellow mustard.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318864/Chicago_Style_Hot_Dog_nsaous.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Chicago Style Hot Dog",
+    "price": 9.25,
+    "star": 0,
+    "time": "7 - 9 mins",
+    "cuisine_type": "American (Chicago Style)",
+    "dish_characteristics": [
+      "hot dog",
+      "savory",
+      "classic"
+    ],
+    "main_ingredients": [
+      "all-beef frank",
+      "poppy seed bun",
+      "sweet relish",
+      "diced onions",
+      "tomatoes",
+      "dill pickle",
+      "sport peppers",
+      "celery salt",
+      "yellow mustard"
+    ],
+    "__collections__": {}
+  },
+  "jYhizydV4ARcncFb9Tbh": {
+    "categoryName": "Chicken",
+    "description": "So good",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1750175609/u1ohjac9rhdgibapurhm.png",
+    "isDeleted": true,
+    "isPopular": false,
+    "name": "TTT",
+    "price": 15,
+    "star": 0,
+    "time": "10 - 12 mins",
+    "cuisine_type": "N/A",
+    "dish_characteristics": [],
+    "main_ingredients": [],
+    "__collections__": {}
+  },
+  "nZrfOEsXqAG4lWVdpstO": {
+    "categoryName": "Meat",
+    "description": "Our Spicy Moroccan Lamb offers a warming and flavorful journey. Lean lamb pieces are cooked with a robust, spicy sauce featuring authentic Moroccan spices, tomatoes, and chickpeas. A hearty and aromatic dish, perfect for a fulfilling meal.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Spicy_Moroccan_Lamb_Chops_p32xke.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Spicy Moroccan Lamb",
+    "price": 22.5,
+    "star": 3,
+    "time": "20 - 25 phút",
+    "cuisine_type": "Moroccan",
+    "dish_characteristics": [
+      "meat",
+      "lamb",
+      "spicy",
+      "savory",
+      "aromatic",
+      "hearty"
+    ],
+    "main_ingredients": [
+      "lamb",
+      "Moroccan spices",
+      "tomatoes",
+      "chickpeas"
+    ],
+    "__collections__": {}
+  },
+  "oI66dgKwTSkxF3VJrvm0": {
+    "categoryName": "Burger",
+    "description": "Dive into our Veggie Extravaganza Burger! A substantial vegetarian patty loaded with mushrooms, black beans, and spices, crowned with melted provolone cheese, sautéed spinach, juicy tomato, and a pesto spread, served on a artisanal bun.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318773/Veggie_Extravaganza_xbhmeb.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Veggie Extravaganza Burger",
+    "price": 13.99,
+    "star": 4,
+    "time": "5 - 7 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "burger",
+      "vegetarian",
+      "savory",
+      "cheese"
+    ],
+    "main_ingredients": [
+      "vegetarian patty",
+      "mushrooms",
+      "black beans",
+      "spices",
+      "provolone cheese",
+      "spinach",
+      "tomato",
+      "pesto spread"
+    ],
+    "__collections__": {}
+  },
+  "pB5uL79pQqteEIriPPYl": {
+    "categoryName": "Coffee",
+    "description": "Simple yet elegant, our Four Cheese Delight offers a harmonious blend of four cheeses cut into bite-sized portions, garnished with plump black olives. A classic choice for any occasion.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318917/Four_Cheese_Delight_vdijfa.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Four Chese Delight",
+    "price": 10.75,
+    "star": 0,
+    "time": "5 - 7 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "appetizer",
+      "cheese",
+      "savory"
+    ],
+    "main_ingredients": [
+      "four cheeses",
+      "black olives"
+    ],
+    "__collections__": {}
+  },
+  "pWwy2cW65pSH2aLWA8Hx": {
+    "categoryName": "Meat",
+    "description": "Experience the rich, authentic flavor of our Smoked BBQ Brisket. Premium beef brisket, seasoned with a secret rub and slow-smoked over hickory wood for up to 14 hours, resulting in incredibly juicy and smoky slices. A true BBQ masterpiece.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318775/Smoked_BBQ_Brisket_i2cuvc.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Smoked BBQ Brisket",
+    "price": 23.99,
+    "star": 0,
+    "time": "12 - 14 mins",
+    "cuisine_type": "American (BBQ)",
+    "dish_characteristics": [
+      "meat",
+      "beef",
+      "BBQ",
+      "smoked",
+      "juicy",
+      "savory"
+    ],
+    "main_ingredients": [
+      "beef brisket",
+      "BBQ rub"
+    ],
+    "__collections__": {}
+  },
+  "u03M2a6u2PtlvxUcKLXX": {
+    "categoryName": "Chicken",
+    "description": "Experience the authentic taste of our Original Crispy Chicken. Each piece is hand-breaded and pressure-fried to ensure maximum crunch on the outside and moist, flavorful chicken on the inside. A comforting and satisfying meal for any occasion.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318773/Original_Crispy_Chicken_yadetc.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Original Crispy Chicken",
+    "price": 42,
+    "star": 5,
+    "time": "12 - 14 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "chicken",
+      "fried",
+      "crispy",
+      "comfort food",
+      "savory"
+    ],
+    "main_ingredients": [
+      "chicken"
+    ],
+    "__collections__": {}
+  },
+  "uA321c7seJ2Cx5rVsU6e": {
+    "categoryName": "Pizza",
+    "description": "A colorful pizza with fresh ingredients like chicken, shrimp, vegetables, and a savory sauce, delivering a tropical flavor.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318973/Hawaiian_Paradise_u009tj.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Hawaiian Paradise",
+    "price": 10.5,
+    "star": 0,
+    "time": "10 mins",
+    "cuisine_type": "Hawaiian-Italian",
+    "dish_characteristics": [
+      "pizza",
+      "chicken",
+      "shrimp",
+      "tropical",
+      "savory"
+    ],
+    "main_ingredients": [
+      "chicken",
+      "shrimp",
+      "vegetables",
+      "savory sauce"
+    ],
+    "__collections__": {}
+  },
+  "uzd8oqgRN7W2GH4qy9SI": {
+    "categoryName": "Sushi",
+    "description": "Our exquisite Shrimp Scampi features tender shrimp quickly cooked in a fragrant sauce of fresh garlic, rich butter, a splash of white wine, and bright lemon juice. A light yet satisfying dish, perfect with spaghetti or fettuccine.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318776/Shrimp_Scampi_rh36rr.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Schrimp Scampi",
+    "price": 19.99,
+    "star": 4.7,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Italian-American",
+    "dish_characteristics": [
+      "seafood",
+      "savory",
+      "light"
+    ],
+    "main_ingredients": [
+      "shrimp",
+      "garlic",
+      "butter",
+      "white wine",
+      "lemon juice",
+      "spaghetti",
+      "fettuccine"
+    ],
+    "__collections__": {}
+  },
+  "xJG5qiZhMLFMPqJPQJ9g": {
+    "categoryName": "Chicken",
+    "description": "Our tender Lemon Pepper Chicken offers a vibrant burst of citrus and a subtle peppery kick. Marinated chicken thighs are baked until perfectly tender and juicy, creating a comforting yet elegant meal that's bursting with flavor.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318774/Lemon_Pepper_Chicken_onpiq9.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Lemon Peper Chicken",
+    "price": 16.99,
+    "star": 3,
+    "time": "12 - 14 mins",
+    "cuisine_type": "Western",
+    "dish_characteristics": [
+      "chicken",
+      "baked",
+      "citrus",
+      "peppery",
+      "savory"
+    ],
+    "main_ingredients": [
+      "chicken thighs",
+      "lemon",
+      "pepper"
+    ],
+    "__collections__": {}
+  },
+  "zOQNdg97fXa9LUsLstaF": {
+    "categoryName": "Burger",
+    "description": "Savor the simplicity of our Classic Beef Burger. A perfectly cooked beef patty topped with fresh greens, red onion, and our signature sauce, all within a soft bun. A true comfort food favorite",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318864/Classic_Beef_Burger_u5xhwz.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Classic Beef Burger",
+    "price": 10.99,
+    "star": 5,
+    "time": "5 - 7 mins",
+    "cuisine_type": "American",
+    "dish_characteristics": [
+      "burger",
+      "beef",
+      "classic",
+      "comfort food",
+      "savory"
+    ],
+    "main_ingredients": [
+      "beef patty",
+      "greens",
+      "red onion",
+      "sauce",
+      "bun"
+    ],
+    "__collections__": {}
+  },
+  "zgobhX98OObYJxtfA8mm": {
+    "categoryName": "Hot Dog",
+    "description": "A Hawaiian-style hot dog featuring grilled BBQ flavors and fresh tropical fruit toppings, offering a unique twist.",
+    "imageUrl": "https://res.cloudinary.com/dc0umlqvf/image/upload/v1743318968/Hawaiian_BBQ_Dog_cmx99x.jpg",
+    "isDeleted": false,
+    "isPopular": false,
+    "name": "Hawaiian BBG Dog",
+    "price": 6.25,
+    "star": 0,
+    "time": "5 - 8 mins",
+    "cuisine_type": "Hawaiian-American",
+    "dish_characteristics": [
+      "hot dog",
+      "Hawaiian",
+      "BBQ",
+      "grilled",
+      "fruity",
+      "savory"
+    ],
+    "main_ingredients": [
+      "hot dog",
+      "BBQ flavors",
+      "tropical fruit toppings"
+    ],
+    "__collections__": {}
+  }
+}
